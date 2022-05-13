@@ -48,11 +48,10 @@ Status
 
 Describe your project
 
-## :sparkles: Features ##
+## :sparkles: Try this web app! ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+<brk>
+<a href="https://gibranalcazar.github.io/Real-Time-Bus-Tracker/" target="_blank">Real Time Bus Tracker</a>
 
 ## :rocket: Technologies ##
 
@@ -91,7 +90,7 @@ $ yarn start
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/gibranalcazar" target="_blank">{{YOUR_NAME}}</a>
+Made with :heart: by <a href="https://github.com/gibranalcazar" target="_blank">Gibrán Alcázar</a>
 
 &#xa0;
 
