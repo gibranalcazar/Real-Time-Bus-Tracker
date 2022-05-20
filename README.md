@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="mapbox-icon.png" alt="Real Time Bus Tracker" />
+  <img src="images/mapbox-icon2.png" alt="Real Time Bus Tracker" />
 
   &#xa0;
 
