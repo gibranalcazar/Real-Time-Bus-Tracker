@@ -55,7 +55,7 @@ There are many bus routes that share their info online in real time. You can fet
 :heavy_check_mark: Add custom markers to a map keeping history\
 :heavy_check_mark: Moves the screen to last position recived
 
-## :boom: Try this web app! ##
+## :boom: Run web app! ##
 
 <brk>
 <a href="https://gibranalcazar.github.io/Real-Time-Bus-Tracker/" target="_blank">Real Time Bus Tracker</a>
