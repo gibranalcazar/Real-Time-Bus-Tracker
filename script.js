@@ -27,7 +27,7 @@ async function move(){
           const el = document.createElement('div');
           el.className = 'marker';
         markers.push(new mapboxgl.Marker(el).setLngLat(position).addTo(map));
-        setTimeout(move, 20000);
+        setTimeout(move, 15000);
 }
 
 async function getBusLocations(){
