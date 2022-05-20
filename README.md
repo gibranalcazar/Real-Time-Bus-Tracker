@@ -51,7 +51,7 @@ There are many bus routes that share their info online in real time. You can fet
 ## :sparkles: Features ##
 
 :heavy_check_mark: Fetch longitude and latitude in real time\
-:heavy_check_mark: Every 15 minutes registers a position\
+:heavy_check_mark: Every 15 seconds registers a position\
 :heavy_check_mark: Add custom markers to a map keeping history\
 :heavy_check_mark: Moves the screen to last position recived
 
