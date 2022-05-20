@@ -64,8 +64,8 @@ There are many bus routes that share their info online in real time. You can fet
 
 The following are some possible improvements for this project:
 
-:bus: Make a popup over each position including info like bus label, time, available seats, etc
-:bus: Use the Mapbox Map Matching API to specify the driving route
+:bus: Make a popup over each position including info like bus label, time, available seats, etc\
+:bus: Use the Mapbox Map Matching API to specify the driving route\
 :bus: Some others
 
 
