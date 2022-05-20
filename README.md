@@ -64,11 +64,10 @@ There are many bus routes that share their info online in real time. You can fet
 
 The following are some possible improvements for this project:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [Make a popup over each position including info like bus label, time, available seats, etc]
+- [Use the Mapbox Map Matching API to specify the driving route]
+- [Others]
+
 
 ## :white_check_mark: Requirements ##
 
