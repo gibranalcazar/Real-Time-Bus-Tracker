@@ -24,11 +24,11 @@
   <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/gibranalcazar/real-time-bus-tracker?color=56BEB8" /> -->
 </p>
 
-Status
+<!-- Status
 
 <h4 align="center"> 
 	🚧  Real Time Bus Tracker 🚀 Under construction...  🚧
-</h4> 
+</h4>  -->
 
 <hr>
 
@@ -46,9 +46,16 @@ Status
 
 ## :dart: About ##
 
-Describe your project
+There are many bus routes that share their info online in real time. You can fetch that info and use position for instance to trace their units. This web app is tracking one bus witch goes from Harvard to MIT. This project was developed as part of the Professional Certificate in coding: Full Stack Software Development by The Massachusetts Institute of Technology.
 
-## :sparkles: Try this web app! ##
+## :sparkles: Features ##
+
+:heavy_check_mark: Fetch longitude and latitude in real time
+:heavy_check_mark: Every 15 minutes registers a position
+:heavy_check_mark: Add custom markers to a map keeping history
+:heavy_check_mark: Moves the screen to last position recived
+
+## 🚀 Try this web app! ##
 
 <brk>
 <a href="https://gibranalcazar.github.io/Real-Time-Bus-Tracker/" target="_blank">Real Time Bus Tracker</a>
@@ -65,7 +72,7 @@ The following tools were used in this project:
 
 ## :white_check_mark: Requirements ##
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed, and also an account in [Mapbox](https://www.mapbox.com/), create an access token and put it in your script.
 
 ## :checkered_flag: Starting ##
 
