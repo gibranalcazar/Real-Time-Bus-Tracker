@@ -60,7 +60,7 @@ There are many bus routes that share their info online in real time. You can fet
 <brk>
 <a href="https://gibranalcazar.github.io/Real-Time-Bus-Tracker/" target="_blank">Real Time Bus Tracker</a>
 
-## :rocket: Technologies ##
+## :pencil2: Roadmap for future improvements ##
 
 The following tools were used in this project:
 
